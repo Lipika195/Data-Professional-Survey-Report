@@ -25,7 +25,7 @@ The dataset consists of **28 survey attributes**, including:
 - Job satisfaction ratings across multiple factors  
 - Career switching trends  
 - Demographic Distribution (age, gender, education, ethnicity,country wise participation)
-- 
+  
 **Key Insights:**
   
 -Salaries vary widely, with senior roles earning higher.  
