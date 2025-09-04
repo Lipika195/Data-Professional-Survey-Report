@@ -23,9 +23,13 @@ Dashboard Features:
 
 The Power BI dashboard provides interactive visuals for:
 -Salary Analysis by Role, Industry, and Country
+
 -Programming Language Preferences
+
 -Job Satisfaction Ratings
+
 -Career Switching Trends
+
 -Demographic Distributions (Age, Gender, Education, Ethnicity,Country wise participation)
 
 Key Insights:  
@@ -40,7 +44,8 @@ This project highlights how survey data can be transformed into actionable insig
 The interactive Power BI dashboard allows dynamic exploration of trends and helps stakeholders make data-driven decisions.
 
 Tools Used:
-
 -Excel- Raw data source
+
 -Power BI – Data cleaning and visualization
+
 -GitHub – Project documentation and sharing
