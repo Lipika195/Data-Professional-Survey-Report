@@ -64,6 +64,7 @@ Dataset
 The dataset consists of **28 survey attributes**, including:  
 - **Demographics**: Age, Gender, Country, Education, Ethnicity  
 - **Career**: Role, Industry, Career Switch status, Salary (USD)  
-- **Skills**: Favorite Programming Language  
-- **Job Satisfaction**: Salary, Work/Life Balance, Management, Learning  
+- **Skills**: Favorite Programming Language
+- **Challenges**: Difficulty in breaking in to data  
+- **Job Satisfaction**: Happiness with Salary, Work/Life Balance, Management, Learning  
 - **Preferences**: Factors influencing job change  
