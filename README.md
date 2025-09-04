@@ -59,3 +59,11 @@ Tools Used:
 -Power BI – Data cleaning and visualization
 
 -GitHub – Project documentation and sharing
+
+Dataset  
+The dataset consists of **28 survey attributes**, including:  
+- **Demographics**: Age, Gender, Country, Education, Ethnicity  
+- **Career**: Role, Industry, Career Switch status, Salary (USD)  
+- **Skills**: Favorite Programming Language  
+- **Job Satisfaction**: Salary, Work/Life Balance, Management, Learning  
+- **Preferences**: Factors influencing job change  
