@@ -22,18 +22,18 @@ Preferences: Factors that matter most in a new job (e.g., salary, remote work, w
 Dashboard Features:
 
 The Power BI dashboard provides interactive visuals for:
-Salary Analysis by Role, Industry, and Country
-Programming Language Preferences
-Job Satisfaction Ratings
-Career Switching Trends
-Demographic Distributions (Age, Gender, Education, Ethnicity,Country wise participation)
+-Salary Analysis by Role, Industry, and Country
+-Programming Language Preferences
+-Job Satisfaction Ratings
+-Career Switching Trends
+-Demographic Distributions (Age, Gender, Education, Ethnicity,Country wise participation)
 
 Key Insights:  
-Salaries vary widely, with senior roles earning higher.  
-**Python** dominates as the most preferred language.  
-Most professionals are **satisfied with learning opportunities** but less with management.  
-A majority **switched careers into data**, many finding it challenging.  
-Respondents are mostly **25–40 years old** with Bachelor’s/Master’s degrees.
+-Salaries vary widely, with senior roles earning higher.  
+-**Python** dominates as the most preferred language.  
+-Most professionals are **satisfied with learning opportunities** but less with management.  
+-A majority **switched careers into data**, many finding it challenging.  
+-Respondents are mostly **25–40 years old** with Bachelor’s/Master’s degrees.
 
 Conclusion:
 This project highlights how survey data can be transformed into actionable insights for understanding the careers and experiences of data professionals. It can helpJob seekers set career expectations,Employers understand what data professionals value most,Educators/training institutes align their curriculum with industry needs.
@@ -41,6 +41,6 @@ The interactive Power BI dashboard allows dynamic exploration of trends and help
 
 Tools Used:
 
-Excel- Raw data source
-Power BI – Data cleaning and visualization
-GitHub – Project documentation and sharing
+-Excel- Raw data source
+-Power BI – Data cleaning and visualization
+-GitHub – Project documentation and sharing
