@@ -11,17 +11,25 @@ The objective of this project is to analyze survey responses from data professio
 Dataset:
 
 The dataset used comes from a survey of data professionals and includes 28 attributes.
+
 Key Features:
+
 Demographics: Age, Gender, Country, Education, Ethnicity
+
 Career: Role, Industry, Career Switch status, Salary (USD)
+
 Skills & Tools: Favorite Programming Language
+
 Job Satisfaction: Happiness with salary, work-life balance, management, coworkers, learning new things, career growth
+
 Challenges: Difficulty in breaking into data
+
 Preferences: Factors that matter most in a new job (e.g., salary, remote work, work-life balance)
 
 Dashboard Features:
 
 The Power BI dashboard provides interactive visuals for:
+
 -Salary Analysis by Role, Industry, and Country
 
 -Programming Language Preferences
@@ -40,10 +48,12 @@ Key Insights:
 -Respondents are mostly **25–40 years old** with Bachelor’s/Master’s degrees.
 
 Conclusion:
+
 This project highlights how survey data can be transformed into actionable insights for understanding the careers and experiences of data professionals. It can helpJob seekers set career expectations,Employers understand what data professionals value most,Educators/training institutes align their curriculum with industry needs.
 The interactive Power BI dashboard allows dynamic exploration of trends and helps stakeholders make data-driven decisions.
 
 Tools Used:
+
 -Excel- Raw data source
 
 -Power BI – Data cleaning and visualization
